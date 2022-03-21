@@ -1,6 +1,7 @@
 # Phototoy-Pro
 
 Photopea wrapped as a standalone software.
+<br>
 *** For Educational Purposes only ***
 
 # Features
