@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "electron-localshortcut": "^3.2.1",
+    "v8-compile-cache": "^2.3.0"
+  }
+}
