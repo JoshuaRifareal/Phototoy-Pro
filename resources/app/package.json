@@ -1,0 +1,16 @@
+{
+  "name": "photopea-standalone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "NFXT",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.0",
+    "electron-packager": "^15.4.0"
+  },
+  "dependencies": {}
+}
